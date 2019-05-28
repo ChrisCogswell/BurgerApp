@@ -1,3 +1,28 @@
-body {
-    background-color: brown;
+body { 
+    background: url(../images/Burger.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
+
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: red;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: yellow;
+}
+
+li {
+    color: orange;
+}
+
+
+
