@@ -24,5 +24,13 @@ li {
     color: orange;
 }
 
+.form-group {
+    margin-left: 20%;
+}
+
+#eaten {
+    color: purple;
+}
+
 
 
